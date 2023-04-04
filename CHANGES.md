@@ -8,4 +8,4 @@
 * Changed `jupyterhub/static/jupyterhub-80.png` to include the Cate logo.
 * Changed `jupyterhub/static/favicon.ico` to be the Cate logo.
 * Copied original files from of `share/jupyterhub` 
-  in the [JupyterHub repo](https://github.com/jupyterhub).
+  in the [JupyterHub repo](https://github.com/jupyterhub/jupyterhub).
